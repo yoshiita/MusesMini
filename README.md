@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/kanitmann/Muses-Mini-frontend">
+  <a href="https://github.com/yoshiita/MusesMini">
   </a>
 
   <h3 align="center">Muses-Mini</h3>
@@ -21,14 +21,14 @@
   <p align="center">
     Description Sample
     <br />
-    <a href="https://github.com/kanitmann/Muses-Mini-frontend"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/yoshiita/MusesMini"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kanitmann/Muses-Mini-frontend">View Demo</a>
+    <a href="https://github.com/yoshiita/MusesMini">View Demo</a>
     ·
-    <a href="https://github.com/kanitmann/Muses-Mini-frontend/issues">Report Bug</a>
+    <a href="https://github.com/yoshiita/MusesMini/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kanitmann/Muses-Mini-frontend/issues">Request Feature</a>
+    <a href="https://github.com/yoshiita/MusesMini/issues">Request Feature</a>
   </p>
 </p>
 
@@ -96,7 +96,7 @@ The basic features include allowing users to register, login, create books, read
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/kanitmann/Muses-Mini-frontend.git
+   git clone https://github.com/yoshiita/MusesMini
    ```
 2. Install NodeJS
    ```bash
@@ -145,7 +145,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the GPL3.0 License. See `LICENSE` for more information.
 
-> Made by Yoshita Madamal
+> Made by Yoshita Madamala
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
