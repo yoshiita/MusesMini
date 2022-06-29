@@ -123,11 +123,8 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 For more examples, please refer to the [Documentation](https://example.com)
 
-<!-- ROADMAP -->
 
-## Roadmap
 
-See the [open issues](https://github.com/kanitmann/Muses-Mini-frontend/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -148,8 +145,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the GPL3.0 License. See `LICENSE` for more information.
 
-> Made with 💙 by Kanit Mann
-
+> Made by Yoshita Madamal
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
